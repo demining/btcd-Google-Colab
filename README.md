@@ -120,6 +120,11 @@ process](https://github.com/btcsuite/btcd/tree/master/release) for all our
 releases for information on how to verify the integrity of published releases
 using our reproducible build system.
 
-## License
 
-btcd is licensed under the [copyfree](http://copyfree.org) ISC License.
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
